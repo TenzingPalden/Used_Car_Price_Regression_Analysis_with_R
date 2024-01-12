@@ -258,5 +258,19 @@ plot(rf)
 <img src="https://github.com/TenzingPalden/used_car_price_regression_analysis/assets/85039775/6da4b52d-22da-4a19-9018-0be74a13f704" alt="Image Description" width="500"/>
 <img src="https://github.com/TenzingPalden/used_car_price_regression_analysis/assets/85039775/dcafc242-f60d-430e-a60b-bf8e1fef6d53" alt="Image Description" width="500"/>
 
+A decision tree and more trimming to the dataset was done but these I will leave for you to explore.
+This marks the end of the exercise/project for me.
 
+# Conclusion of the project
 
+To determine the best indicators of selling price, one's used car must have a strong max power, and second to that comes name, year, engine and transmission. This all goes along with the leading theory that the most expensive cars are the ones with high powered engines and recognizable brand names.
+
+The Linear model performed the most accurate results, but overall we have seen that torque, fuel, engine and seller type does not matter
+So when looking for a car, remember that the quality of the car is not why it is so expensive, it usually is brand and speed. If you just need to get around, shop responsibly.
+
+### In the future I would like to ...
+
+Possible to add more features to this dataset.
+(ex. Brand popularity, previous accidents, modification, tints)
+Aggregate more data in the csv and compare with millions of rows instead of thousands to get a clever picture.
+Scrape used car information from websites to get this data instead of having a predetermined set of data.
